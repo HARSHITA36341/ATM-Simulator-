@@ -2,7 +2,7 @@
 
 A command-line ATM simulator built in Python using Object-Oriented Programming (OOP).
 
-![ATM Simulator](atm.jpeg)
+![ATM Simulator](https://github.com/HARSHITA36341/ATM-Simulator-/blob/main/atm_output.png?raw=true.jpeg)
 
 ## Features
 - Create a PIN with an initial balance
